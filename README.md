@@ -1,6 +1,8 @@
 # Hola! mi nombre es Sara 👩🏻‍💻!
 ## Frond-end developer
 Siempre he tenido un gran interés por resolver problemas y enfrentarme a nuevos retos. El haber crecido en la era digital, sembró en mí la curiosidad de saber cómo el mundo de la tecnología influye en las aplicaciones con las que interactuamos a diario. Esto me llevó a descubrir mi creatividad y capacidad para resolver problemas. Hoy, a través de la programación, he sido capaz de expandir soluciones que agreguen valor a la sociedad.
+### Conecta conmigo:
+&#10;[![https://www.linkedin.com/in/sara-stefania-sierra-ramos/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/https://www.linkedin.com/in/sara-stefania-sierra-ramos/)
 
 <!--
 **SaraStefania/SaraStefania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
