@@ -1,5 +1,5 @@
 # Hola! mi nombre es Sara 👩🏻‍💻!
-## Frond-end developer
+## Front-end developer
 Siempre he tenido un gran interés por resolver problemas y enfrentarme a nuevos retos. El haber crecido en la era digital, sembró en mí la curiosidad de saber cómo el mundo de la tecnología influye en las aplicaciones con las que interactuamos a diario. Esto me llevó a descubrir mi creatividad y capacidad para resolver problemas. Hoy, a través de la programación, he sido capaz de expandir soluciones que agreguen valor a la sociedad.
 
 <p>🔭 Estoy trabajando en <a href="https://github.com/SaraStefania/DEV003-burger-queen-api-client" target="_blank">Burger Queen</a> </p>
